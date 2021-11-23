@@ -13,7 +13,10 @@
 |----|-----|--------|-------|
 |1|Thanu|502|CSE|
 |2|Vaishu|552|CSE|
-|2|Vaishu|552|CSE|
+|3|Dhanu|520|CSE|
+|4|Anvitha|542|CSE|
+|5|Prabhu|528|CSE|
+|6|Kalyan|529|CSE|
 
 ## LIST
 ### ordered list
