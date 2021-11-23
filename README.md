@@ -13,6 +13,7 @@
 |----|-----|--------|-------|
 |1|Thanu|502|CSE|
 |2|Vaishu|552|CSE|
+|2|Vaishu|552|CSE|
 
 ## LIST
 ### ordered list
@@ -27,3 +28,16 @@
 
 * CSE
 * IT
+
+
+### NESTED LIST
+1. ECE
+    - First year
+    - Second year 
+ 2. CSE 
+     - First year
+     - Second year  
+ 
+   
+    
+ 
