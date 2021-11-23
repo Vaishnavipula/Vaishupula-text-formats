@@ -31,13 +31,7 @@
 
 * CSE
 * IT
-
-``` python code
-a=10
-if a%2=0
-print("even number")
-else
-print("odd number")
+ 
 ### NESTED LIST
 1. ECE
     - First year
@@ -46,6 +40,14 @@ print("odd number")
      - First year
      - Second year  
  
+ 
+```python code
+a=10
+if a%2=0
+print("even number")
+else
+print("odd number")
+
    
     
  
