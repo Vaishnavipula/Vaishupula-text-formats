@@ -13,3 +13,17 @@
 |----|-----|--------|-------|
 |1|Thanu|502|CSE|
 |2|Vaishu|552|CSE|
+
+## LIST
+### ordered list
+1. CSE
+2. ECE
+3. MECH
+4. EEE
+
+### unordered list
+- ECE
+- EEE
+
+* CSE
+* IT
