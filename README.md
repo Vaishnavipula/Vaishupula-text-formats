@@ -46,8 +46,8 @@
  
  ```python code
  a=10
- if a%2==0
+ if a%2==0:
  print("even number")
- else
+ else:
  print("odd number")
  ```
