@@ -6,8 +6,8 @@
  **Welcome**
  </br>
  ***aditya***
- 
-![image](https://user-images.githubusercontent.com/84460580/142904866-e5e5fa49-68b2-42de-96db-ff3500f366fb.png)
+ ![image](https://user-images.githubusercontent.com/84460580/142973813-075a6b9f-b8db-48a4-ba98-ead8f8e64975.png)
+
 ## TABLE
 |S.No| Name| Roll-No| Branch|
 |----|-----|--------|-------|
@@ -32,7 +32,12 @@
 * CSE
 * IT
 
-
+``` python code
+a=10
+if a%2=0
+print("even number")
+else
+print("odd number")
 ### NESTED LIST
 1. ECE
     - First year
