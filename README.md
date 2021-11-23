@@ -19,6 +19,7 @@
 |4|Anvitha|542|CSE|
 |5|Prabhu|528|CSE|
 |6|Kalyan|529|CSE|
+|7|Ram|542|CSE|
 
 ## LIST
 ### ordered list
