@@ -6,6 +6,7 @@
  **Welcome**
  <br>
  ***aditya***
+ 
  ![image](https://user-images.githubusercontent.com/84460580/142973813-075a6b9f-b8db-48a4-ba98-ead8f8e64975.png)
 
 ## TABLE
@@ -41,7 +42,7 @@
      - Second year  
  
  
-``` python code
+```python code
 a=10
 if a%2=0
 print("even number")
