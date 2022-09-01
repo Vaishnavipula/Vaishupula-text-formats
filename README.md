@@ -1,4 +1,3 @@
-# prabhu
 # Vaishnavipula
 ## Adityan
 ### CSE
